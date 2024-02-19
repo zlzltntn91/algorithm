@@ -2,7 +2,7 @@ package util;
 
 public class ArrayUtils {
 
-    public static int[] ARRAY = {3, 5, 7, 2, 8, 9, 0, 1, 4, 5};
+    public static int[] ARRAY = {3, 5, 7, 8, 4, 9, 0, 1, 2, 5};
 
     public static void print(int[] arr) {
         System.out.print("[");
